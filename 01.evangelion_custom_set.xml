@@ -2825,7 +2825,7 @@ Flying, vigilance, trample, lifelink, haste</text>
             <tablerow>2</tablerow>
         </card>
 		<card>
-            <name>Pilot Token</name>
+            <name>Pilot Token (Asuka)</name>
             <text>This creature crews Vehicles as though its power were 2 greater.</text>
             <prop>
                 <type>Token Creature — Pilot</type>
@@ -2841,7 +2841,7 @@ Flying, vigilance, trample, lifelink, haste</text>
             <tablerow>2</tablerow>
         </card>
 		<card>
-            <name>Pilot Token</name>
+            <name>Pilot Token (Rei)</name>
             <text>This creature crews Vehicles as though its power were 2 greater.</text>
             <prop>
                 <type>Token Creature — Pilot</type>
@@ -2857,7 +2857,7 @@ Flying, vigilance, trample, lifelink, haste</text>
             <tablerow>2</tablerow>
         </card>
 		<card>
-            <name>Pilot Token</name>
+            <name>Pilot Token (Shinji)</name>
             <text>This creature crews Vehicles as though its power were 2 greater.</text>
             <prop>
                 <type>Token Creature — Pilot</type>
