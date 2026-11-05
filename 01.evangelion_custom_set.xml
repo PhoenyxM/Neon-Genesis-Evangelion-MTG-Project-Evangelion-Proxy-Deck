@@ -874,6 +874,33 @@ Counter target spell.</text>
 			<tablerow>3</tablerow>
         </card>
 		<card>
+            <name>Gitaxian Probe</name>
+            <text>({U/P} can be paid with either {U} or 2 life.)
+Look at target player's hand.
+Draw a card.</text>
+            <prop>
+                <format-modern>banned</format-modern>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <maintype>Sorcery</maintype>
+                <format-vintage>restricted</format-vintage>
+                <side>front</side>
+                <format-paupercommander>legal</format-paupercommander>
+                <format-oathbreaker>legal</format-oathbreaker>
+                <format-predh>legal</format-predh>
+                <format-legacy>banned</format-legacy>
+                <layout>normal</layout>
+                <cmc>1</cmc>
+                <format-pauper>banned</format-pauper>
+                <coloridentity>U</coloridentity>
+                <type>Sorcery</type>
+                <colors>U</colors>
+                <manacost>{U/P}</manacost>
+            </prop>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/gitaxian-probe.jpg">NRV</set>
+            <tablerow>3</tablerow>
+        </card>
+		<card>
             <name>Glacial Fortress</name>
             <text>This land enters tapped unless you control a Plains or an Island.
 {T}: Add {W} or {U}.</text>
@@ -1980,34 +2007,35 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
             <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/reaver-titan.jpg">NRV</set>
 			<tablerow>1</tablerow>
         </card>
-        <card>
-            <name>Meltdown</name>
-            <text>Destroy each artifact with mana value X or less.</text>
+		<card>
+            <name>Rhystic Study</name>
+            <text>Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.</text>
             <prop>
-                <format-duel>legal</format-duel>
-                <colors>R</colors>
-                <manacost>XR</manacost>
-                <format-predh>legal</format-predh>
                 <format-timeless>legal</format-timeless>
-                <format-legacy>legal</format-legacy>
-                <format-brawl>legal</format-brawl>
-                <format-historic>legal</format-historic>
-                <type>Sorcery</type>
-                <format-competitivebrawl>legal</format-competitivebrawl>
-                <coloridentity>R</coloridentity>
-                <format-modern>legal</format-modern>
-                <layout>normal</layout>
-                <cmc>1</cmc>
-                <maintype>Sorcery</maintype>
-                <format-gladiator>legal</format-gladiator>
-                <format-premodern>legal</format-premodern>
-                <format-vintage>legal</format-vintage>
-                <format-oathbreaker>legal</format-oathbreaker>
                 <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-gladiator>legal</format-gladiator>
+                <maintype>Enchantment</maintype>
+                <format-vintage>legal</format-vintage>
                 <side>front</side>
+                <format-paupercommander>banned</format-paupercommander>
+                <format-oathbreaker>legal</format-oathbreaker>
+                <format-predh>legal</format-predh>
+                <format-legacy>legal</format-legacy>
+                <layout>normal</layout>
+                <cmc>3</cmc>
+                <format-pauper>legal</format-pauper>
+                <format-premodern>legal</format-premodern>
+                <coloridentity>U</coloridentity>
+                <type>Enchantment</type>
+                <colors>U</colors>
+                <format-historic>legal</format-historic>
+                <format-competitivebrawl>legal</format-competitivebrawl>
+                <manacost>2U</manacost>
+                <format-brawl>legal</format-brawl>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/meltdown.jpg">NRV</set>
-			<tablerow>3</tablerow>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/rhystic-study.jpg">NRV</set>
+            <tablerow>1</tablerow>
         </card>
 		<card>
             <name>Reliquary Tower</name>
