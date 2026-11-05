@@ -2,6 +2,7 @@
 
 To install the custom deck, click on Card Database > Open custom sets folders and place the .xml file in there.
 
+
 **Deck list:**
 
 To add the deck with printings selected, click on Deck Editor > Load Deck and select the .cod file.
