@@ -2720,7 +2720,7 @@ Crew 3</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/tokens/angel-token.jpg/angel-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/tokens/angel-token.jpg">NRV</set>
             <reverse-related count="x">Divine Visitation</reverse-related>
             <reverse-related count="2">Parhelion II</reverse-related>
             <token>1</token>
@@ -2735,7 +2735,7 @@ Crew 3</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/citizen-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/citizen-token.jpg">NRV</set>
             <reverse-related>Halo Fountain</reverse-related><token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2748,7 +2748,7 @@ Crew 3</text>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/construct-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/construct-token.jpg">NRV</set>
             <reverse-related>Digsite Engineer</reverse-related><token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2760,7 +2760,7 @@ Crew 3</text>
                 <cmc>0</cmc>
                 <pt>10/10</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/eldrazi-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/eldrazi-token.jpg">NRV</set>
             <reverse-related>Idol of Oblivion</reverse-related>
 			<token>1</token>
             <tablerow>2</tablerow>
@@ -2774,7 +2774,7 @@ Crew 3</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/elephant-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/elephant-token.jpg">NRV</set>
 			<reverse-related>Generous Gift</reverse-related>
 			<token>1</token>
             <tablerow>2</tablerow>
@@ -2790,7 +2790,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>10/10</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/mechtitan-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/mechtitan-token.jpg">NRV</set>
             <reverse-related>Mechtitan Core</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2803,7 +2803,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/myr-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/myr-token.jpg">NRV</set>
             <reverse-related>Mirrodin Besieged</reverse-related>
 			<token>1</token>
             <tablerow>2</tablerow>
@@ -2817,7 +2817,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/pilot-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/pilot-token.jpg">NRV</set>
             <reverse-related count="2">Born to Drive</reverse-related>
             <reverse-related>Prodigy's Prototype</reverse-related>
             <reverse-related>Shorikai, Genesis Engine</reverse-related>
@@ -2833,7 +2833,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/pilot(asuka)-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/pilot(asuka)-token.jpg">NRV</set>
             <reverse-related count="2">Born to Drive</reverse-related>
             <reverse-related>Prodigy's Prototype</reverse-related>
             <reverse-related>Shorikai, Genesis Engine</reverse-related>
@@ -2849,7 +2849,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/pilot(rei)-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/pilot(rei)-token.jpg">NRV</set>
             <reverse-related count="2">Born to Drive</reverse-related>
             <reverse-related>Prodigy's Prototype</reverse-related>
             <reverse-related>Shorikai, Genesis Engine</reverse-related>
@@ -2865,7 +2865,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/pilot(shinji)-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/pilot(shinji)-token.jpg">NRV</set>
             <reverse-related count="2">Born to Drive</reverse-related>
             <reverse-related>Prodigy's Prototype</reverse-related>
             <reverse-related>Shorikai, Genesis Engine</reverse-related>
@@ -2881,7 +2881,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/thopter(c)-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/thopter(c)-token.jpg">NRV</set>
             <reverse-related>Efficient Construction</reverse-related>
 			<reverse-related>Sai, Master Thopterist</reverse-related>
             <token>1</token>
@@ -2897,7 +2897,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/thopter(u)-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/thopter(u)-token.jpg">NRV</set>
             <reverse-related count="2">Breya, Etherium Shaper</reverse-related>
             <reverse-related>Sharding Sphinx</reverse-related>
             <token>1</token>
@@ -2911,7 +2911,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/treasure-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/treasure-token.jpg">NRV</set>
             <reverse-related count="x">Treasure Vault</reverse-related>
 			<token>1</token>
             <tablerow>1</tablerow>
@@ -2925,7 +2925,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>3/2</pt>
             </prop>
-            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/angel-token.jpg/vehicle-token.jpg">NRV</set>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/Tokens/vehicle-token.jpg">NRV</set>
             <reverse-related>Mu Yanling, Wind Rider</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
