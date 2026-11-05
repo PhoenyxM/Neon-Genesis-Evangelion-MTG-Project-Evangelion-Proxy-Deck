@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Nov 5 18:11:15 2026</lastLoadedTimestamp>
+    <deckname>Project Evangelion</deckname>
+    <format></format>
+    <bannerCard providerId="">Shorikai, Genesis Engine</bannerCard>
+    <comments></comments>
+    <tags>
+        <tag>Commander</tag>
+        <tag>Bracket 4</tag>
+    </tags>
+    <zone name="main">
+        <card number="1" name="Academy Ruins" setShortName="NRV"/>
+        <card number="1" name="Arcane Signet" setShortName="NRV"/>
+        <card number="1" name="Adarkar Wastes" setShortName="NRV"/>
+        <card number="1" name="Aerial Surveyor" setShortName="NRV"/>
+        <card number="1" name="Anchor to Reality" setShortName="NRV"/>
+        <card number="1" name="Ancient Den" setShortName="NRV"/>
+        <card number="1" name="Azorius Chancery" setShortName="NRV"/>
+        <card number="1" name="Azorius Signet" setShortName="NRV"/>
+        <card number="1" name="Born to Drive" setShortName="NRV"/>
+        <card number="1" name="Brilliant Restoration" setShortName="NRV"/>
+        <card number="1" name="Buried Ruin" setShortName="NRV"/>
+        <card number="1" name="Chief Engineer" setShortName="NRV"/>
+        <card number="1" name="Clock of Omens" setShortName="NRV"/>
+        <card number="1" name="Command Tower" setShortName="NRV"/>
+        <card number="1" name="Containment Construct" setShortName="NRV"/>
+        <card number="1" name="Counterspell" setShortName="NRV"/>
+        <card number="1" name="Cyberdrive Awakener" setShortName="NRV"/>
+        <card number="1" name="Daring Thief" setShortName="NRV"/>
+        <card number="1" name="Darksteel Citadel" setShortName="NRV"/>
+        <card number="1" name="Deserted Beach" setShortName="NRV"/>
+        <card number="1" name="Digsite Engineer" setShortName="NRV"/>
+        <card number="1" name="Divine Visitation" setShortName="NRV"/>
+        <card number="1" name="Drumbellower" setShortName="NRV"/>
+        <card number="1" name="Efficient Construction" setShortName="NRV"/>
+        <card number="1" name="Emry, Lurker of the Loch" setShortName="NRV"/>
+        <card number="1" name="Exotic Orchard" setShortName="NRV"/>
+        <card number="1" name="Farewell" setShortName="NRV"/>
+        <card number="1" name="Flare of Denial" setShortName="NRV"/>
+        <card number="1" name="Generous Gift" setShortName="NRV"/>
+        <card number="1" name="Glacial Fortress" setShortName="NRV"/>
+        <card number="1" name="Hallowed Fountain" setShortName="NRV"/>
+        <card number="1" name="Halo Fountain" setShortName="NRV"/>
+        <card number="1" name="Idol of Oblivion" setShortName="NRV"/>
+        <card number="1" name="Imposter Mech" setShortName="NRV"/>
+        <card number="1" name="Intruder Alarm" setShortName="NRV"/>
+        <card number="1" name="Inventors' Fair" setShortName="NRV"/>
+        <card number="6" name="Island" setShortName="NRV"/>
+        <card number="1" name="Kotori, Pilot Prodigy" setShortName="NRV"/>
+        <card number="1" name="Liquimetal Torque" setShortName="NRV"/>
+        <card number="1" name="Manifold Key" setShortName="NRV"/>
+        <card number="1" name="Marble Diamond" setShortName="NRV"/>
+        <card number="1" name="Mech Hangar" setShortName="NRV"/>
+        <card number="1" name="Mechanized Production" setShortName="NRV"/>
+        <card number="1" name="Mechtitan Core" setShortName="NRV"/>
+        <card number="1" name="Metalwork Colossus" setShortName="NRV"/>
+        <card number="1" name="Millikin" setShortName="NRV"/>
+        <card number="1" name="Mind Stone" setShortName="NRV"/>
+        <card number="1" name="Mindlink Mech" setShortName="NRV"/>
+        <card number="1" name="Mirage Mirror" setShortName="NRV"/>
+        <card number="1" name="Mirrodin Besieged" setShortName="NRV"/>
+        <card number="1" name="Mobilizer Mech" setShortName="NRV"/>
+        <card number="1" name="Mystic Forge" setShortName="NRV"/>
+        <card number="1" name="Mystic Gate" setShortName="NRV"/>
+        <card number="1" name="Nimbus Maze" setShortName="NRV"/>
+        <card number="1" name="Padeem, Consul of Innovation" setShortName="NRV"/>
+        <card number="1" name="Parhelion II" setShortName="NRV"/>
+        <card number="1" name="Path to Exile" setShortName="NRV"/>
+        <card number="1" name="Peacewalker Colossus" setShortName="NRV"/>
+        <card number="1" name="Phyrexian Metamorph" setShortName="NRV"/>
+        <card number="6" name="Plains" setShortName="NRV"/>
+        <card number="1" name="Power Depot" setShortName="NRV"/>
+        <card number="1" name="Prairie Stream" setShortName="NRV"/>
+        <card number="1" name="Prodigy's Prototype" setShortName="NRV"/>
+        <card number="1" name="Prototype Portal" setShortName="NRV"/>
+        <card number="1" name="Razortide Bridge" setShortName="NRV"/>
+        <card number="1" name="Reaver Titan" setShortName="NRV"/>
+        <card number="1" name="Reliquary Tower" setShortName="NRV"/>
+        <card number="1" name="Sai, Master Thopterist" setShortName="NRV"/>
+        <card number="1" name="Sea of Clouds" setShortName="NRV"/>
+        <card number="1" name="Seat of the Synod" setShortName="NRV"/>
+        <card number="1" name="Semblance Anvil" setShortName="NRV"/>
+        <card number="1" name="Sharding Sphinx" setShortName="NRV"/>
+        <card number="1" name="Shimmer Dragon" setShortName="NRV"/>
+        <card number="1" name="Skycloud Expanse" setShortName="NRV"/>
+        <card number="1" name="Skysovereign, Consul Flagship" setShortName="NRV"/>
+        <card number="1" name="Sol Ring" setShortName="NRV"/>
+        <card number="1" name="Stoic Rebuttal" setShortName="NRV"/>
+        <card number="1" name="Surgehacker Mech" setShortName="NRV"/>
+        <card number="1" name="Swords to Plowshares" setShortName="NRV"/>
+        <card number="1" name="Talisman of Progress" setShortName="NRV"/>
+        <card number="1" name="Teferi's Ageless Insight" setShortName="NRV"/>
+        <card number="1" name="Tezzeret the Seeker" setShortName="NRV"/>
+        <card number="1" name="Thought Vessel" setShortName="NRV"/>
+        <card number="1" name="Treasure Vault" setShortName="NRV"/>
+        <card number="1" name="Unwinding Clock" setShortName="NRV"/>
+        <card number="1" name="Vedalken Archmage" setShortName="NRV"/>
+        <card number="1" name="Vedalken Humiliator" setShortName="NRV"/>
+        <card number="1" name="Voltaic Key" setShortName="NRV"/>
+        <card number="1" name="Weatherlight" setShortName="NRV"/>
+        <card number="1" name="Shorikai, Genesis Engine" setShortName="NRV"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Academy Rector" setShortName="NRV"/>
+        <card number="1" name="Arcum Dagsson" setShortName="NRV"/>
+        <card number="1" name="Cyclonic Rift" setShortName="NRV"/>
+        <card number="1" name="Gitaxian Probe" setShortName="NRV"/>
+        <card number="1" name="Mu Yanling, Wind Rider" setShortName="NRV"/>
+        <card number="1" name="Sky Diamond" setShortName="NRV"/>
+        <card number="1" name="Rhystic Study" setShortName="NRV"/>
+        <card number="1" name="The Aetherspark" setShortName="NRV"/>
+        <card number="1" name="Unstoppable Plan" setShortName="NRV"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Treasure Token" setShortName="NRV"/>
+        <card number="1" name="Angel Token   " setShortName="NRV"/>
+        <card number="1" name="Citizen Token  " setShortName="NRV"/>
+        <card number="1" name="Construct Token   " setShortName="NRV"/>
+        <card number="1" name="Eldrazi Token" setShortName="NRV"/>
+        <card number="1" name="Elephant Token" setShortName="NRV"/>
+        <card number="1" name="Mechtitan" setShortName="NRV"/>
+        <card number="1" name="Myr Token" setShortName="NRV"/>
+        <card number="1" name="Pilot Token (Asuka)" setShortName="NRV"/>
+        <card number="1" name="Pilot Token (Rei)" setShortName="NRV"/>
+        <card number="1" name="Pilot Token (Shinji)" setShortName="NRV"/>
+        <card number="1" name="Pilot Token" setShortName="NRV"/>
+        <card number="1" name="Thopter Token" setShortName="NRV"/>
+        <card number="1" name="Thopter Token " setShortName="NRV"/>
+    </zone>
+</cockatrice_deck>
