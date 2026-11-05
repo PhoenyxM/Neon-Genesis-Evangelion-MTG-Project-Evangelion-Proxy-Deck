@@ -110,6 +110,40 @@ Crew 2</text>
 			<tablerow>1</tablerow>
         </card>
 		<card>
+            <name>The Aetherspark</name>
+            <text>As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has &quot;Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark.&quot;
+[+1]: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.
+[−5]: Draw two cards.
+[−10]: Add ten mana of any one color.</text>
+            <prop>
+                <format-modern>legal</format-modern>
+                <loyalty>4</loyalty>
+                <format-timeless>legal</format-timeless>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-standard>legal</format-standard>
+                <format-gladiator>legal</format-gladiator>
+                <maintype>Planeswalker</maintype>
+                <format-vintage>legal</format-vintage>
+                <side>front</side>
+                <format-oathbreaker>legal</format-oathbreaker>
+                <format-future>legal</format-future>
+                <format-pioneer>legal</format-pioneer>
+                <format-legacy>legal</format-legacy>
+                <layout>normal</layout>
+                <cmc>4</cmc>
+                <type>Legendary Artifact Planeswalker — Equipment</type>
+                <format-historic>legal</format-historic>
+                <format-competitivebrawl>legal</format-competitivebrawl>
+                <format-alchemy>legal</format-alchemy>
+                <manacost>4</manacost>
+                <format-standardbrawl>legal</format-standardbrawl>
+                <format-brawl>legal</format-brawl>
+            </prop>
+            <set picurl="https://raw.githubusercontent.com/PhoenyxM/Neon-Genesis-Evangelion-MTG-Project-Evangelion-Proxy-Deck/refs/heads/main/card-images/jpg/the-aetherspark.jpg">NRV</set>
+            <tablerow>1</tablerow>
+        </card>
+		<card>
             <name>Anchor to Reality</name>
             <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
 Search your library for an Equipment or Vehicle card, put that card onto the battlefield, then shuffle. If it has mana value less than the sacrificed permanent's mana value, scry 2.</text>
